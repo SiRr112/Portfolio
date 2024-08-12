@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://samirbasnet.com.np/" target="_blank" rel="dofollow">samirbasnet.com.np</a>
+  <a href="https://samirbasnet.com.np/" target="_blank" !rel="dofollow">samirbasnet.com.np</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
